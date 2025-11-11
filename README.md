@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **pavanmendu116@gmail.com** For Collaboration/Project or An
 ![](https://github-profile-trophy.vercel.app/?username=pavan777116&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 💡 LeetCode Profile
-[![LeetCode Stats](https://leetcard.jacoblin.cool/LH4V6DMmVh?theme=dark)](https://leetcode.com/LH4V6DMmVh/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Pavan_Kalyan117?theme=dark)](https://leetcode.com/Pavan_Kalyan117/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urstruly_pavan777) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PavanKalyan_77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanmendu116@gmail.com) 
